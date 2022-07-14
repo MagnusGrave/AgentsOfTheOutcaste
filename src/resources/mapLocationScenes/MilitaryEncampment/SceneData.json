@@ -1,0 +1,839 @@
+{
+    "sceneWidth": 28,
+    "sceneHeight": 20,
+    "sceneLayeringType": 2,
+    "rows": [
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 1,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 5,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_5.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 6,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_6.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_7.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_8.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_9.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_10.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_11.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 12,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 12,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_12.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 13,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 13,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 13,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 13,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_13.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 14,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_14.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 1,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 15,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_15.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 18,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "MilitaryEncampment/RowLayer_18.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        }
+    ],
+    "breakaways": [],
+    "visualTileDatas": []
+}

@@ -1,0 +1,167 @@
+{
+    "customItemDatas": [
+        {
+            "fileName": "ArborSigil.png",
+            "id": "44e5531a-90e8-430d-93bf-b4cc23dcaac5",
+            "name": "Arbor Sigil",
+            "description": "This glowing pendant holds a great lifeforce. It's power fortifies you when it's near.",
+            "type": 1,
+            "multifariousTypes": [],
+            "stats": {
+                "equipmentType": 2,
+                "weight": 0,
+                "karma": 2,
+                "usableClasses": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "attack": 0,
+                "spirit": 0,
+                "armor": 2,
+                "vitality": 2,
+                "elements": [],
+                "battleToolTraits": {
+                    "minRange": 0,
+                    "maxRange": 0,
+                    "aoeRange": 0,
+                    "weaponTraits": {
+                        "weaponGroup": 0,
+                        "weaponType": 0,
+                        "twoHandsRequired": false,
+                        "canBeProjectile": false
+                    },
+                    "battleItemTraits": {
+                        "effectDuration": 0,
+                        "status": 0,
+                        "behaviorGroup": {
+                            "itemTypes": []
+                        },
+                        "behaviorGroupOptions": []
+                    }
+                }
+            },
+            "journeyConsumableTraits": {
+                "duration_days": 0,
+                "staminaMod": 0,
+                "staminaRegenRateMod": 0,
+                "terrainRiskMod": 0,
+                "terrainStaminaMod": 0,
+                "settlementRiskMod": 0,
+                "settlementStaminaMod": 0,
+                "encounterProtections": [],
+                "encounterAttractants": []
+            },
+            "valueTier": "T2-C",
+            "value": 0,
+            "quantity": 1,
+            "relatedMissionId": "62376780-e0b0-47da-921d-caa6895e5fa6"
+        },
+        {
+            "fileName": "katana07_02.png",
+            "id": "c67d6f52-4f8f-4c2b-ab1b-257552fc2f34",
+            "name": "Black Blade",
+            "description": "A sinister katana bubbling with the essence of pure malice.",
+            "type": 0,
+            "multifariousTypes": [],
+            "stats": {
+                "equipmentType": 0,
+                "weight": 0,
+                "karma": 0,
+                "usableClasses": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4
+                ],
+                "attack": 32,
+                "spirit": 0,
+                "armor": 0,
+                "vitality": 0,
+                "elements": [],
+                "battleToolTraits": {
+                    "minRange": 1,
+                    "maxRange": 1,
+                    "aoeRange": 0,
+                    "weaponTraits": {
+                        "weaponGroup": 1,
+                        "weaponType": 5,
+                        "twoHandsRequired": true,
+                        "canBeProjectile": false
+                    },
+                    "battleItemTraits": {
+                        "effectDuration": 0,
+                        "status": -1,
+                        "behaviorGroup": {
+                            "itemTypes": []
+                        },
+                        "behaviorGroupOptions": []
+                    }
+                }
+            },
+            "journeyConsumableTraits": {
+                "duration_days": 0,
+                "staminaMod": 0,
+                "staminaRegenRateMod": 0,
+                "terrainRiskMod": 0,
+                "terrainStaminaMod": 0,
+                "settlementRiskMod": 0,
+                "settlementStaminaMod": 0,
+                "encounterProtections": [],
+                "encounterAttractants": []
+            },
+            "valueTier": "T2-C",
+            "value": 0,
+            "quantity": 1,
+            "relatedMissionId": "e2f24e46-3a31-4bee-b82d-da60e726c85a"
+        }
+    ],
+    "characterDatas": [
+        {
+            "name": "[PLAYER]",
+            "type": 0,
+            "strength": 0,
+            "intellect": 0,
+            "endurance": 0,
+            "speed": 0,
+            "expNorm": 0.0,
+            "skillTree": [],
+            "id": "ffb61a18-e8e2-4235-a3e6-dffeef37e39a",
+            "portraitPath": "",
+            "items_ids": []
+        },
+        {
+            "name": "Amida",
+            "type": 3,
+            "strength": 1,
+            "intellect": 2,
+            "endurance": 1,
+            "speed": 4,
+            "expNorm": 3.0,
+            "skillTree": [],
+            "id": "e0f327f5-bad5-48d2-8097-15325ed8a6d5",
+            "portraitPath": "portraits/Attendant.png",
+            "items_ids": [
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "name": "Dark Entity",
+            "type": 3,
+            "strength": 2,
+            "intellect": 5,
+            "endurance": 4,
+            "speed": 1,
+            "expNorm": 8.010000228881836,
+            "skillTree": [],
+            "id": "0e752947-d0ee-4376-abfe-0795b50a0822",
+            "portraitPath": "portraits/Yurai.png",
+            "items_ids": []
+        }
+    ]
+}

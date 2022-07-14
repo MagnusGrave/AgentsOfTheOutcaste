@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 271ae3e0dd0da484793164dabc6f42da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -487967313718294480
+    second: monster_bird2_0
+  - first:
+      213: -4806023566988031704
+    second: monster_bird2_1
+  - first:
+      213: -4649174861842027462
+    second: monster_bird2_2
+  - first:
+      213: 1225752641608727626
+    second: monster_bird2_3
+  - first:
+      213: -1971714227158120960
+    second: monster_bird2_4
+  - first:
+      213: 4434421174329355958
+    second: monster_bird2_5
+  - first:
+      213: -5159480524086550810
+    second: monster_bird2_6
+  - first:
+      213: -3942211733095138527
+    second: monster_bird2_7
+  - first:
+      213: 248711656724711015
+    second: monster_bird2_8
+  - first:
+      213: 4335191963040942063
+    second: monster_bird2_9
+  - first:
+      213: -3988511968652366145
+    second: monster_bird2_10
+  - first:
+      213: 1722290160390941107
+    second: monster_bird2_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster_bird2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4072207755d522541bb7f9c21d8a2e26
+      internalID: -487967313718294480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 171
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6608396d6aa05674691cafee806b2dd8
+      internalID: -4806023566988031704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 171
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8822404e43d924f82a7e46c5dbdd2c
+      internalID: -4649174861842027462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89234573f60fa44fb11fee02e9ae521
+      internalID: 1225752641608727626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 114
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352bf7c9ed1b6ad41967a0ae37f5ba91
+      internalID: -1971714227158120960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 114
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4898ac59e3119d2438b0d8835f43809a
+      internalID: 4434421174329355958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418bc6b5bb94e144e809b185950847e8
+      internalID: -5159480524086550810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 57
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a209c457a4a3b4b9ac0a76753613db
+      internalID: -3942211733095138527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 57
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b89eaf8cccb140a30b687fa263796
+      internalID: 248711656724711015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d29b597695b046a4cc694d96abca1
+      internalID: 4335191963040942063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da596ddc2da94249a6dd816770be6e4
+      internalID: -3988511968652366145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster_bird2_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 61
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf0b58f62099fb4abedb19daa0abf3a
+      internalID: 1722290160390941107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb20a2b2b94cd33448d8aaaee047fcc8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

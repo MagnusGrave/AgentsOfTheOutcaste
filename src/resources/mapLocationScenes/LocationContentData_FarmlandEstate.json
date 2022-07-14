@@ -1,0 +1,681 @@
+{
+    "mapLocationStructures": [
+        {
+            "mapLocationData": {
+                "id": "",
+                "enviType": 2,
+                "tileType": 3,
+                "settlementType": 8,
+                "settlementDesignation": 1,
+                "name": "Farmland Estate",
+                "description": "A quaint field attended by a small family of farmers.",
+                "sceneDirectory": "FarmlandEstate/",
+                "customBGImagePath": ""
+            },
+            "interactionDatas": [],
+            "interactionlessDialographyDatas": [
+                {
+                    "dialographyName": "Dialography_Default",
+                    "dialogLines": [],
+                    "locationDescSummary": "",
+                    "actorPathDatas": [
+                        {
+                            "animStates": [
+                                {
+                                    "stateType": 0,
+                                    "direction": 1,
+                                    "numberOfTiles": 6,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.5,
+                                    "fadeIn": true,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 8,
+                                    "direction": 1,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                }
+                            ],
+                            "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
+                            "characterDataId": "ffb61a18-e8e2-4235-a3e6-dffeef37e39a",
+                            "startLocation": {
+                                "x": 28.5,
+                                "y": 11.5
+                            },
+                            "isLoopPath": false
+                        },
+                        {
+                            "animStates": [
+                                {
+                                    "stateType": 2,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 2.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 0,
+                                    "numberOfTiles": 5,
+                                    "speedMod": 0.0,
+                                    "waitTime": 3.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 2,
+                                    "numberOfTiles": 7,
+                                    "speedMod": 0.0,
+                                    "waitTime": 3.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 0,
+                                    "numberOfTiles": 9,
+                                    "speedMod": 0.0,
+                                    "waitTime": 3.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 2,
+                                    "numberOfTiles": 4,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 2,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 2.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 2,
+                                    "numberOfTiles": 4,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 3,
+                                    "numberOfTiles": 2,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 2,
+                                    "numberOfTiles": 3,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 2,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 2.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 1,
+                                    "numberOfTiles": 11,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 3,
+                                    "numberOfTiles": 9,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 2,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 4.0,
+                                    "doorCoord_min": {
+                                        "x": -1,
+                                        "y": 4
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 5
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 1,
+                                    "numberOfTiles": 7,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": -1,
+                                        "y": 4
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 5
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 3,
+                                    "numberOfTiles": 3,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": -1,
+                                        "y": 4
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 5
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                }
+                            ],
+                            "actorId": "d9e4127e-efbb-4bd6-8921-608327061d04",
+                            "characterDataId": "",
+                            "startLocation": {
+                                "x": 7.5,
+                                "y": 15.5
+                            },
+                            "isLoopPath": true
+                        },
+                        {
+                            "animStates": [
+                                {
+                                    "stateType": 2,
+                                    "direction": 0,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 26.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": true,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 3,
+                                    "direction": 0,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 13,
+                                        "y": 14
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 14,
+                                        "y": 15
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 0,
+                                    "numberOfTiles": 1,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 1.0,
+                                    "fadeIn": true,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 2,
+                                    "direction": 0,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 6.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 1,
+                                    "direction": 3,
+                                    "numberOfTiles": 1,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 0,
+                                    "direction": 3,
+                                    "numberOfTiles": 1,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 1.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 4,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 0.0,
+                                    "doorCoord_min": {
+                                        "x": 13,
+                                        "y": 14
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 14,
+                                        "y": 15
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                },
+                                {
+                                    "stateType": 2,
+                                    "direction": 3,
+                                    "numberOfTiles": 0,
+                                    "speedMod": 0.0,
+                                    "waitTime": 4.5,
+                                    "doorCoord_min": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "doorCoord_max": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "teleportPosition": {
+                                        "x": 0.0,
+                                        "y": 0.0
+                                    },
+                                    "fadeDuration": 0.0,
+                                    "fadeIn": false,
+                                    "isLayingState": false
+                                }
+                            ],
+                            "actorId": "5df24b95-9691-4ef0-afee-5ffecb484162",
+                            "characterDataId": "",
+                            "startLocation": {
+                                "x": 14.5,
+                                "y": 14.5
+                            },
+                            "isLoopPath": true
+                        }
+                    ]
+                }
+            ],
+            "interactionlessBattleData": {
+                "name": "",
+                "emptyAllySlots": [],
+                "allyCharacterPlans": [],
+                "enemyCharacterPlans": [],
+                "winCondition": {
+                    "winConditionType": 0,
+                    "assassinationTarget": {
+                        "characterId": "",
+                        "character_slot": {
+                            "instanceID": 0
+                        },
+                        "location": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "direction": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    },
+                    "tileToOccupy": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "turnsToSurvive": 0
+                },
+                "isLossGameover": false
+            },
+            "missionStructures": []
+        }
+    ],
+    "actorDatas": [
+        {
+            "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
+            "characterDataId": "ffb61a18-e8e2-4235-a3e6-dffeef37e39a",
+            "javaSheetFilePath": "",
+            "nonActorFrames_startIndex": -1,
+            "nonActorFrames_endIndex": -1,
+            "originalColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "actorId": "d9e4127e-efbb-4bd6-8921-608327061d04",
+            "characterDataId": "",
+            "javaSheetFilePath": "characters/villagerMan/walk.png",
+            "nonActorFrames_startIndex": -1,
+            "nonActorFrames_endIndex": -1,
+            "originalColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "actorId": "5df24b95-9691-4ef0-afee-5ffecb484162",
+            "characterDataId": "",
+            "javaSheetFilePath": "characters/villagerLady/walk.png",
+            "nonActorFrames_startIndex": -1,
+            "nonActorFrames_endIndex": -1,
+            "originalColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        }
+    ]
+}
