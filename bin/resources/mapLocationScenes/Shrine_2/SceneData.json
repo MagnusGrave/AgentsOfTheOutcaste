@@ -1,0 +1,1010 @@
+{
+    "sceneWidth": 28,
+    "sceneHeight": 20,
+    "sceneLayeringType": 2,
+    "rows": [
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 3,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 3,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine_2/RowLayer_5.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine_2/RowLayer_6.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine_2/RowLayer_7.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine_2/RowLayer_8.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine_2/RowLayer_9.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 3,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 3,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 4,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Shrine_2/RowLayer_10.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        }
+    ],
+    "breakaways": [],
+    "visualTileDatas": [
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 5,
+            "rowIndex": 5,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_56",
+                "DunesTileset_V2_58",
+                "DunesTileset_V2_60"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 5,
+            "rowIndex": 5,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_57",
+                "DunesTileset_V2_59",
+                "DunesTileset_V2_61"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 5,
+            "rowIndex": 5,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_56",
+                "DunesTileset_V2_58",
+                "DunesTileset_V2_60"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 5,
+            "rowIndex": 5,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_57",
+                "DunesTileset_V2_59",
+                "DunesTileset_V2_61"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 10,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_56",
+                "DunesTileset_V2_58",
+                "DunesTileset_V2_60"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 18,
+            "gridLocationY": 6,
+            "rowIndex": 6,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_57",
+                "DunesTileset_V2_59",
+                "DunesTileset_V2_61"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 10,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_48",
+                "DunesTileset_V2_50",
+                "DunesTileset_V2_52"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 13,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 14,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 15,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 18,
+            "gridLocationY": 7,
+            "rowIndex": 7,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_49",
+                "DunesTileset_V2_51",
+                "DunesTileset_V2_53"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 10,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_56",
+                "DunesTileset_V2_58",
+                "DunesTileset_V2_60"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 13,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 14,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 15,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 18,
+            "gridLocationY": 8,
+            "rowIndex": 8,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_57",
+                "DunesTileset_V2_59",
+                "DunesTileset_V2_61"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 10,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_48",
+                "DunesTileset_V2_50",
+                "DunesTileset_V2_52"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 13,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 14,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 15,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "tileA1_water_0",
+                "tileA1_water_1",
+                "tileA1_water_2"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 18,
+            "gridLocationY": 9,
+            "rowIndex": 9,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_49",
+                "DunesTileset_V2_51",
+                "DunesTileset_V2_53"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 11,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_48",
+                "DunesTileset_V2_50",
+                "DunesTileset_V2_52"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 12,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_49",
+                "DunesTileset_V2_51",
+                "DunesTileset_V2_53"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 13,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_39",
+                "DunesTileset_V2_41",
+                "DunesTileset_V2_43"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 14,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_39",
+                "DunesTileset_V2_41",
+                "DunesTileset_V2_43"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 15,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_39",
+                "DunesTileset_V2_41",
+                "DunesTileset_V2_43"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 16,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_48",
+                "DunesTileset_V2_50",
+                "DunesTileset_V2_52"
+            ],
+            "m_DoorClosedSprites_names": []
+        },
+        {
+            "gridLocationX": 17,
+            "gridLocationY": 10,
+            "rowIndex": 10,
+            "m_AnimatedSprites_names": [
+                "DunesTileset_V2_49",
+                "DunesTileset_V2_51",
+                "DunesTileset_V2_53"
+            ],
+            "m_DoorClosedSprites_names": []
+        }
+    ]
+}

@@ -1,0 +1,904 @@
+{
+    "sceneWidth": 32,
+    "sceneHeight": 20,
+    "sceneLayeringType": 2,
+    "rows": [
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_4.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_5.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_6.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 7,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_7.png"
+                },
+                {
+                    "layerHeight": 10,
+                    "imageFilePath": "Doctor/RowLayer_7_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 8,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_8.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_9.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Doctor/RowLayer_10.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "Doctor/RowLayer_11.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        }
+    ],
+    "breakaways": [
+        {
+            "correspondingRowIndex": 7,
+            "correspondingImageLayerIndex": 1,
+            "activeCoordinates": []
+        }
+    ],
+    "visualTileDatas": []
+}

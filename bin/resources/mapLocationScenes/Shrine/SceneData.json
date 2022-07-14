@@ -1,0 +1,662 @@
+{
+    "sceneWidth": 28,
+    "sceneHeight": 20,
+    "sceneLayeringType": 2,
+    "rows": [
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 0,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 0,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 0,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 5,
+                    "imageFilePath": "Shrine/RowLayer_0.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 1,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_2.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_3.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_5.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 2,
+                    "imageFilePath": "Shrine/RowLayer_6.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 7,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_7.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_8.png"
+                },
+                {
+                    "layerHeight": 9,
+                    "imageFilePath": "Shrine/RowLayer_8_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Shrine/RowLayer_9.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 10,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Shrine/RowLayer_10.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 11,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Shrine/RowLayer_11.png"
+                },
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Shrine/RowLayer_11_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        }
+    ],
+    "breakaways": [
+        {
+            "correspondingRowIndex": 8,
+            "correspondingImageLayerIndex": 1,
+            "activeCoordinates": []
+        },
+        {
+            "correspondingRowIndex": 11,
+            "correspondingImageLayerIndex": 2,
+            "activeCoordinates": []
+        }
+    ],
+    "visualTileDatas": []
+}

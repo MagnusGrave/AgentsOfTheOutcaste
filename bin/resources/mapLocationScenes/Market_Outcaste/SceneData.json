@@ -1,0 +1,899 @@
+{
+    "sceneWidth": 28,
+    "sceneHeight": 20,
+    "sceneLayeringType": 2,
+    "rows": [
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 2,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Market_Outcaste/RowLayer_2.png"
+                },
+                {
+                    "layerHeight": 6,
+                    "imageFilePath": "Market_Outcaste/RowLayer_2_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 3,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_3.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 4,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Market_Outcaste/RowLayer_4.png"
+                },
+                {
+                    "layerHeight": 6,
+                    "imageFilePath": "Market_Outcaste/RowLayer_4_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 5,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_5.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 6,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_6.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 8,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_8.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 9,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 9,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Market_Outcaste/RowLayer_9.png"
+                },
+                {
+                    "layerHeight": 6,
+                    "imageFilePath": "Market_Outcaste/RowLayer_9_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 10,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_10.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 11,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 3,
+                    "imageFilePath": "Market_Outcaste/RowLayer_11.png"
+                },
+                {
+                    "layerHeight": 6,
+                    "imageFilePath": "Market_Outcaste/RowLayer_11_breakaway_1.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 12,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_12.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 13,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
+            "imageLayers": [
+                {
+                    "layerHeight": 1,
+                    "imageFilePath": "Market_Outcaste/RowLayer_13.png"
+                }
+            ]
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        },
+        {
+            "tileDatas": [],
+            "imageLayers": []
+        }
+    ],
+    "breakaways": [
+        {
+            "correspondingRowIndex": 2,
+            "correspondingImageLayerIndex": 1,
+            "activeCoordinates": [
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 5
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 5
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 5
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 5
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 6
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 6
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 6
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 6
+                }
+            ]
+        },
+        {
+            "correspondingRowIndex": 4,
+            "correspondingImageLayerIndex": 2,
+            "activeCoordinates": [
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 7
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 7
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 7
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 7
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 8
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 8
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 8
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 8
+                }
+            ]
+        },
+        {
+            "correspondingRowIndex": 9,
+            "correspondingImageLayerIndex": 3,
+            "activeCoordinates": [
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 12
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 12
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 12
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 12
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 13
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 13
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 13
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 13
+                }
+            ]
+        },
+        {
+            "correspondingRowIndex": 11,
+            "correspondingImageLayerIndex": 4,
+            "activeCoordinates": []
+        }
+    ],
+    "visualTileDatas": []
+}
