@@ -44,7 +44,9 @@ public class BattleCharacterController {
 			return weaponType;
 		} else {
 			System.err.println("BattleCharacterController.GetWeaponType() - characterBase == null!");
-			return WeaponType.Katana;
+			//return WeaponType.Katana;
+			//We no longer need to return a default value, that I'm aware of.
+			return null;
 		}
 	}
 	
@@ -270,23 +272,23 @@ public class BattleCharacterController {
 		
 		AnimSocketsPack animSocketsPack = SpriteSheetUtility.GetHandSocketsForAnim(animType, weaponType, isRangedAttack);
 		
-		if(animSocketsPack == null)
-			currentFrames = animController.GetAnimFrames(AnimType.Punch);
-		else if(animSocketsPack.animSubset.overridingAnimType == null)
+		
+		//if(animSocketsPack == null)
+		//		currentFrames = animController.GetAnimFrames(AnimType.Punch);
+		//else if(animSocketsPack.animSubset.overridingAnimType == null)
+		//	currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.animType);
+		//else
+		//	currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.overridingAnimType);
+		//Bug Fix - Adding support for the Walk anim, currently this is only used by the traveling character
+		if(animSocketsPack == null) {
+			if(animType == AnimType.Walk)
+				currentFrames = animController.GetAnimFrames(AnimType.Walk);
+			else	
+				currentFrames = animController.GetAnimFrames(AnimType.Punch);
+		} else if(animSocketsPack.animSubset.overridingAnimType == null)
 			currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.animType);
 		else
 			currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.overridingAnimType);
-		
-		
-		//Adding walking to BattleCharacterController's features, this will allow it to work seamlessly as the WorldmapPanel's character representation.
-		currentFrames = new BufferedImage[4];
-		if(animType == AnimType.Walk && animSocketsPack == null) {
-			SpriteSheet walkSheet = SpriteSheetUtility.GetWalkSheet(GetClassType());
-			currentFrames[0] = walkSheet.GetSprite(3, 1, 1);
-			currentFrames[1] = walkSheet.GetSprite(4, 1, 1);
-			currentFrames[2] = walkSheet.GetSprite(5, 1, 1);
-			currentFrames[3] = walkSheet.GetSprite(4, 1, 1);
-		}
 		
 		
 		this.loopAnim = loopAnim;
@@ -317,12 +319,24 @@ public class BattleCharacterController {
 
 		AnimSocketsPack animSocketsPack = SpriteSheetUtility.GetHandSocketsForAnim(animType, weaponType, isRangedAttack);
 		
-		if(animSocketsPack == null)
-			currentFrames = animController.GetAnimFrames(AnimType.Punch);
-		else if(animSocketsPack.animSubset.overridingAnimType == null)
+		//if(animSocketsPack == null)
+		//	currentFrames = animController.GetAnimFrames(AnimType.Punch);
+		//else if(animSocketsPack.animSubset.overridingAnimType == null)
+		//	currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.animType);
+		//else
+		//	currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.overridingAnimType);
+		//Bug Fix - Adding support for the Walk anim, currently this is only used by the traveling character
+		if(animSocketsPack == null) {
+			if(animType == AnimType.Walk)
+				currentFrames = animController.GetAnimFrames(AnimType.Walk);
+			else
+				currentFrames = animController.GetAnimFrames(AnimType.Punch);
+		} else if(animSocketsPack.animSubset.overridingAnimType == null)
 			currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.animType);
 		else
 			currentFrames = animController.GetAnimFrames(animSocketsPack.animSubset.overridingAnimType);
+		
+		
 		loopAnim = false;
 		//edit timing so that the full anim plays in the duraction of the CombatAnim clip
 		animTimer.setDelay(Math.round((float)duration_milliseconds / currentFrames.length));
