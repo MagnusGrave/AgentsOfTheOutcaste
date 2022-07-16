@@ -34,6 +34,9 @@ public class BattleCharacterController {
 			return classType;
 		}
 	}
+	
+	private boolean flag_weaponTypeIsNull;
+	
 	/** 
 	 * This is a convenience method to grab the classType from the Game's CharacterData instance.
 	 * @return
@@ -42,10 +45,13 @@ public class BattleCharacterController {
 		if(characterBase != null) {
 			WeaponType weaponType = CombatAnimPane.GetCombatantsWeaponType(characterBase);
 			return weaponType;
-		} else {
-			System.err.println("BattleCharacterController.GetWeaponType() - characterBase == null!");
+		} else if(!flag_weaponTypeIsNull) {
+			flag_weaponTypeIsNull = true;
+			System.err.println("BattleCharacterController.GetWeaponType() - flag_weaponTypeIsNull");
 			//return WeaponType.Katana;
 			//We no longer need to return a default value, that I'm aware of.
+			return null;
+		} else {
 			return null;
 		}
 	}
@@ -85,6 +91,9 @@ public class BattleCharacterController {
 	
 	//Initialization - Start
 	
+	//Record and suppress an error occuring in the constructor at the start of the first battle
+	private boolean flag_nullClassTypeError;
+	
 	/**
 	 * This is for constructing BattleCharacters to be used in the CombatAnimPane.
 	 * @param charDataId
@@ -94,7 +103,14 @@ public class BattleCharacterController {
 	//public BattleCharacterController(String charDataId,  AnimType startingAnim, boolean startFacingRight) {
 		//this.characterDataID = charDataId;
 	public BattleCharacterController(CharacterBase characterBase,  AnimType startingAnim, boolean startFacingRight) {
-		this.classType = characterBase.GetData().getType();
+		if(characterBase != null && characterBase.GetData() != null)
+			this.classType = characterBase.GetData().getType();
+		else if(!flag_nullClassTypeError) {
+			flag_nullClassTypeError = true;
+			this.classType = classType.BANDIT;
+			System.err.println("BattleCharacterController.Constructor - flag_nullClassTypeError");
+		}
+		
 		this.characterBase = characterBase;
 		
 		ClassType classType = GetClassType();

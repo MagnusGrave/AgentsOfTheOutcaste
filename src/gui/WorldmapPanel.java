@@ -6121,6 +6121,9 @@ public class WorldmapPanel extends JPanel {
 			SetupNextCarriage(3, 4, true);
 			
 			travelCharacterController.GetImagePanel().setVisible(true);
+			//travelCharacterController.ChangeDirection(true);
+			travelCharacterController.PlayAnim(AnimType.Idle, true, false);
+			
 			enterAnim.start();
 			
 			lightbox.Fade(true, 1400, timerDelay, alphaInterval, 10, this);

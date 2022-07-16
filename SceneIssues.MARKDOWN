@@ -4,7 +4,7 @@ Logic Bugs
 - [ x ] MapLocationPanel doesn't properly set the player actor's layer when they start off doing a non-vertical movement into the scene.
 - [ X ] While traveling the worldmap the player character is playing an attack animation instead of a walk anim. This is because the only anims available to it are battle related ones. We need to, instead, load up the SpriteSheetUtility.animFrameSocketMap with walk anims. It's being addressed in: BattleCharacterController.PlayAnim().
 - [ X ] When arriving at the destination on the Worldmap an error occurs due to a reference in the player character's weapon anim.
-- [  ] The travel character is facing the wrong direction while their idle before the travel anim starts.
+- [ X ] The travel character is facing the wrong direction while their idle before the travel anim starts.
 
 
 Character Obscurity Solution
@@ -17,9 +17,9 @@ This solution is to removal all "hideable" vertical layers aside from buildings.
 
 Scenes to Rework
 --
-- [  ] Foothills: Topology and vert elements
-- [  ] Plateau: Topology, vert elements and ground tiles touch up
-- [  ] Peak: Complete remake
+- [ X ] Foothills: Topology and vert elements
+- [ X ] Plateau: Topology, vert elements and ground tiles touch up
+- [ X ] Peak: Complete remake
 - [  ] Forest: Vert Elements
 - [  ] Forest Edge: Shrink Collision bounds
 - [  ] Marsh: Vert Elements
@@ -28,7 +28,7 @@ Scenes to Rework
 - [  ] Farmland Estate: Vert Elements
 - [  ] Flower Garden: Remove vert elements
 - [  ] Masamune Burial Grounds: Vert elements
-- [  ] Omoi Falls: Topology and Vert Element
+- [ X ] Omoi Falls: Topology and Vert Element
 - [  ] Sacred Hollow: Topology
 - [  ] Made all scenes conform to Dark Forest size
 
