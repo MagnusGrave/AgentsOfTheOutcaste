@@ -59,6 +59,7 @@ import dataShared.DialographyData;
 import dataShared.ActorData;
 import dataShared.ActorPathData;
 import enums.ColorBlend;
+import enums.Direction;
 import enums.InteractionType;
 import enums.MenuType;
 import enums.SceneLayeringType;
@@ -1783,6 +1784,13 @@ public class MapLocationPanel extends JPanel {
 				
 				if(!pathData.isLoopPath)
 					animatingActors.add(actor);
+				
+				
+				//DEBUGGING - This seems to fix a bug by updating their row now that we've been placed in the scene. The bug beign addressed is one that changes the character's
+				//incorrectly when starting a new dialography.
+				UpdateActorRow(actor.getImagePanel(), actor.getCurrentRow(), actor.getCurrentRow(), true, actor.getActorData().actorId);
+				
+				
 			} else
 				actor.Deactivate();
 		}

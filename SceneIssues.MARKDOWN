@@ -5,6 +5,10 @@ Logic Bugs
 - [ X ] While traveling the worldmap the player character is playing an attack animation instead of a walk anim. This is because the only anims available to it are battle related ones. We need to, instead, load up the SpriteSheetUtility.animFrameSocketMap with walk anims. It's being addressed in: BattleCharacterController.PlayAnim().
 - [ X ] When arriving at the destination on the Worldmap an error occurs due to a reference in the player character's weapon anim.
 - [ X ] The travel character is facing the wrong direction while their idle before the travel anim starts.
+- [ X ] Characters can become moved to erroneous layers when a new dialography starts. -Fixed by calling UpdateActorRow after setting the characters into the scene layers in MapLocationPanel.StarDialography.
+- [  ] Start adding random interactions at every scene. This will kickoff the balancing of the grinding and farming mechanics.
+- [  ] When loading a game and entering the Resounding Aura mission the MapLocationPanel.activeMissionis null.
+- [  ] Have the first Flee mission drop off the player in a forest with radius 2 or larger, a forest tile that also meets the criteria of the dynamic transition.
 
 
 Character Obscurity Solution
@@ -51,6 +55,7 @@ General Issues
 - [ X ] MISINTERPRETATION: The height placement of doors and battle characters at the start of the Dialography and BattlePanel needs to be shifted up along with the settlement layer in any combo scene. ACTUAL PROBLEM: The problem is that the placement of the settlement image components is unaligned with everything else. The actors and visual tiles, settlement scene collision tiles and nature scene are all in the correct locations. This bug was fixed by editing the settlement component placement in MapLocationPanel.AssembleScene().
 - [  ] Tall scenes(primarially the Mountain scene) seem to misalign the Breakaway Zones and also wreak havok on character movement calculation.
 - [ X ] Battle characters UI elements need to be destroyed or hidden when the battle ends.
+- [  ] Dialographies don't seem to put characters on the correct layers. Deeper characters render in front of more shallow characters. Fortunately though, both seem to get layered correctly amongst the scene elements.
 
 Scene Specific Issues
 --

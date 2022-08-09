@@ -48,4 +48,7 @@ public class AnimState implements Serializable {
     
     //Anim State Override
     public boolean isLayingState;
+    
+    //Project the character upwards in scene depth to simulate flying, hovering or hanging in the air
+    public int verticalDepth;
 }

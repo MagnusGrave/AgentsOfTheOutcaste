@@ -327,7 +327,7 @@ public class BattleCharacterController {
 		if(animTimer.isRunning())
 			animTimer.stop();
 		
-
+		
 		WeaponType weaponType = GetWeaponType();
 		
 		

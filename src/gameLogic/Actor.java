@@ -334,6 +334,7 @@ public class Actor {
 		//if(currentPathData != null)
 		//	transform_setPosition(currentPathData.startLocation);
 		if(currentPathData != null) {
+			System.out.println("Actor.Reset() - Calling transform_setPosition.");
 			transform_setPosition(TryTranslateBySettlementOffset(currentPathData.startLocation));
 		}
 		
