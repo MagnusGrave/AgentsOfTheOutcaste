@@ -2377,54 +2377,61 @@ public class MapLocationPanel extends JPanel {
 				Game.Instance().ReceiveItems(currentInteraction.GrantedItems());
 		}
 		
-		//Check interactions mission status
-		//In the new scheme, the mission flow is less strict and supports two approaches to progression:
-		// 1. either leaving via a goto location/mission(representing the end of the current mission) with no regard for mission stipulations and interaction success
-		// 2. or relying solely on the mission stipulations and interaction success while disregarding a goto location/mission as related to mission completion
-		// *The rule of thumb: if the mission has stipulations then use approach #2, otherwise step thru the interactions until a goto location/mission is encountered then complete mission and move on 
-		if(
-			(
-				//Are there no stipulations?
-				(activeMission.getMissionStipulations() == null || activeMission.getMissionStipulations().size() == 0)
-				&&
-				//Do we have a goto location/mission?
-				(!currentInteraction.GotoMapLocationID().isEmpty() || !currentInteraction.GotoMissionId().isEmpty())
-			)
-			||
-			(
-				//Are there stipulations?
-				(activeMission.getMissionStipulations() != null && activeMission.getMissionStipulations().size() >= 0)
-				&&
-				//Did we succeed on one of our stipulation?
-				(wasInteractionSuccessful && activeMission.getMissionStipulations().contains(currentInteraction.Type()))
-			)
-		  )
-		{
-			//System.err.println("MapLocationPanel.ApplyInteraction() - Completed activeMission. Display gainedItems STUB");
-			//TODO Display gained items on UI using governingMission.getRewards());
-			if(activeMission.getRewards() != null && activeMission.getRewards().length > 0) {
-				if(resultsPane.isVisible()) {
-					missionResultsListener = new ActionListener() {
-						Mission missionCapture = activeMission;
-						boolean wasSuccessfulCapture = wasInteractionSuccessful;
-						@Override
-						public void actionPerformed(ActionEvent e) {
-							resultsPane.UpdateResults("Mission: " + missionCapture.getName(), wasSuccessfulCapture, null, missionCapture.getRewards());
-							//Set this null so when the ok button is clicked again, the ResultsPane will know to close itself
-							missionResultsListener = null;
-						}
-					};
-				} else {
-					resultsPane.UpdateResults("Mission: " + activeMission.getName(), wasInteractionSuccessful, null, activeMission.getRewards());
-					resultsPane.setVisible(true);
+		/**
+		 * 11/14/22 - This block had a null ref error during the Resounding Aura mission because the activeMission was already set to null when completing the first of two interactions in the dialography.
+		 * The first interaction is the stipulation for mission completion and the second interaction, Talk, is the one that gives the reward.
+		 * So I added this condition. Hopefully it doesn't cause any errors in other circumstances.
+		 */
+		if(activeMission != null) {
+			//Check interactions mission status
+			//In the new scheme, the mission flow is less strict and supports two approaches to progression:
+			// 1. either leaving via a goto location/mission(representing the end of the current mission) with no regard for mission stipulations and interaction success
+			// 2. or relying solely on the mission stipulations and interaction success while disregarding a goto location/mission as related to mission completion
+			// *The rule of thumb: if the mission has stipulations then use approach #2, otherwise step thru the interactions until a goto location/mission is encountered then complete mission and move on 
+			if(
+				(
+					//Are there no stipulations?
+					(activeMission.getMissionStipulations() == null || activeMission.getMissionStipulations().size() == 0)
+					&&
+					//Do we have a goto location/mission?
+					(!currentInteraction.GotoMapLocationID().isEmpty() || !currentInteraction.GotoMissionId().isEmpty())
+				)
+				||
+				(
+					//Are there stipulations?
+					(activeMission.getMissionStipulations() != null && activeMission.getMissionStipulations().size() >= 0)
+					&&
+					//Did we succeed on one of our stipulation?
+					(wasInteractionSuccessful && activeMission.getMissionStipulations().contains(currentInteraction.Type()))
+				)
+			  )
+			{
+				//System.err.println("MapLocationPanel.ApplyInteraction() - Completed activeMission. Display gainedItems STUB");
+				//TODO Display gained items on UI using governingMission.getRewards());
+				if(activeMission.getRewards() != null && activeMission.getRewards().length > 0) {
+					if(resultsPane.isVisible()) {
+						missionResultsListener = new ActionListener() {
+							Mission missionCapture = activeMission;
+							boolean wasSuccessfulCapture = wasInteractionSuccessful;
+							@Override
+							public void actionPerformed(ActionEvent e) {
+								resultsPane.UpdateResults("Mission: " + missionCapture.getName(), wasSuccessfulCapture, null, missionCapture.getRewards());
+								//Set this null so when the ok button is clicked again, the ResultsPane will know to close itself
+								missionResultsListener = null;
+							}
+						};
+					} else {
+						resultsPane.UpdateResults("Mission: " + activeMission.getName(), wasInteractionSuccessful, null, activeMission.getRewards());
+						resultsPane.setVisible(true);
+					}
 				}
+				
+				//[MISSION_FLOW_EDIT]
+				/*System.out.println("MapLocationPanel.ApplyInteraction() - Calling CompleteMission()");
+				Game.Instance().CompleteMission(activeMission);
+				activeMission = null;*/
+				//This mission logic block is happening a bit too early, I think we should be waiting till ResolveInteraction() so that we can get back to the post-interaction dialography if the user exited early
 			}
-			
-			//[MISSION_FLOW_EDIT]
-			/*System.out.println("MapLocationPanel.ApplyInteraction() - Calling CompleteMission()");
-			Game.Instance().CompleteMission(activeMission);
-			activeMission = null;*/
-			//This mission logic block is happening a bit too early, I think we should be waiting till ResolveInteraction() so that we can get back to the post-interaction dialography if the user exited early
 		}
 		
 		if(!resultsPane.isVisible())
@@ -2625,10 +2632,15 @@ public class MapLocationPanel extends JPanel {
 		//[MISSION_FLOW_EDIT]
 		//We may want to wait till here to complete the mission; otherwise if users exit the game before finishing the post-interaction dialography then they've been recorded finishing a mission without
 		//having experienced the results of it, mainly transitional results(i.e. teleporting to the goToLocation/goToMission).
-		System.out.println("MapLocationPanel.ResolveInteraction() - Calling CompleteMission()");
-		Game.Instance().CompleteMission(activeMission);
-		activeMission = null;
-		
+		//11-14-22 - This is creating null refs for missions that have interactions beyond their success stipulation in ApplyInteractions(), like in the mission Resounding Aura. Check that this is the
+		//last mission before clearing.
+		//if(nextInteractions == null) { //This condition bugged other missions. Taking another approach by catching null activeMission in the results panel logic.
+		if(activeMission != null) { //This is necessary, regardless of the intricate interworkings of the mission system. If there's no active mission then dont try to complete it.
+			System.out.println("MapLocationPanel.ResolveInteraction() - Calling CompleteMission() and setting activeMission to null.");
+			Game.Instance().CompleteMission(activeMission);
+			activeMission = null;
+		}
+		//}
 		
 		//Finalization - End
 		

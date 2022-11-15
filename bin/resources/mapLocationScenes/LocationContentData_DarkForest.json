@@ -103,7 +103,7 @@
                     "dialogLines": [
                         {
                             "actor": {
-                                "instanceID": 123850
+                                "instanceID": 93936
                             },
                             "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                             "doesStallChoreo": true,
@@ -114,7 +114,7 @@
                         },
                         {
                             "actor": {
-                                "instanceID": 123850
+                                "instanceID": 93936
                             },
                             "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                             "doesStallChoreo": false,
@@ -387,6 +387,7 @@
                         "missionStipulations": [],
                         "rewardsRefs": [],
                         "genericLocationEnvironmentType": -1,
+                        "genericPlotMinRadius": 3,
                         "genericLocationSettlementType": -1,
                         "gotoMissionIdAfterEntry": "",
                         "indicator_nextPendingMission": 6,
@@ -428,7 +429,7 @@
                                     {
                                         "characterId": "0e752947-d0ee-4376-abfe-0795b50a0822",
                                         "character_slot": {
-                                            "instanceID": 78566
+                                            "instanceID": 79308
                                         },
                                         "location": {
                                             "x": 21,
@@ -465,7 +466,7 @@
                                 "isLossGameover": false
                             },
                             "battleData_slot": {
-                                "instanceID": 123526
+                                "instanceID": 93612
                             },
                             "isPersistentIntr": false,
                             "isUniqueTreeIntr": false,
@@ -477,7 +478,7 @@
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -488,7 +489,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -499,7 +500,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -510,7 +511,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -767,14 +768,14 @@
                                 ]
                             },
                             "dialography_Pre": {
-                                "instanceID": 123642
+                                "instanceID": 93728
                             },
                             "dialographyData_onSuccess": {
                                 "dialographyName": "Dialography_Success",
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -785,7 +786,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -796,7 +797,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -807,7 +808,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -816,7 +817,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             }
                                         ],
                                         "useLeftPortrait": false,
@@ -824,7 +825,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -835,7 +836,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": true,
@@ -844,7 +845,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -852,7 +853,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -861,7 +862,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             }
                                         ],
                                         "useLeftPortrait": false,
@@ -869,7 +870,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": true,
@@ -878,7 +879,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -886,7 +887,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -1561,7 +1562,7 @@
                                 ]
                             },
                             "dialography_onSuccess": {
-                                "instanceID": 123754
+                                "instanceID": 93840
                             },
                             "nextInteractions_onSuccess_ids": [],
                             "nextInteractions_onSuccess_slots": [],
@@ -1570,7 +1571,7 @@
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -1581,7 +1582,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -1591,10 +1592,10 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             },
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -1602,7 +1603,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -1612,10 +1613,10 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             },
                                             {
-                                                "instanceID": 123500
+                                                "instanceID": 93586
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -1623,7 +1624,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -1633,10 +1634,10 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             },
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -1644,7 +1645,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -1655,7 +1656,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -1664,7 +1665,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123864
+                                                "instanceID": 93950
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -1672,7 +1673,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -1683,7 +1684,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -1694,7 +1695,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -1705,7 +1706,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": false,
@@ -1716,7 +1717,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -1725,7 +1726,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -1733,7 +1734,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123864
+                                            "instanceID": 93950
                                         },
                                         "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                         "doesStallChoreo": true,
@@ -1744,7 +1745,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -2364,7 +2365,7 @@
                                 ]
                             },
                             "dialography_onFailure": {
-                                "instanceID": 123618
+                                "instanceID": 93704
                             },
                             "nextInteractions_onFailure_ids": [],
                             "nextInteractions_onFailure_slots": [],
@@ -2372,7 +2373,7 @@
                                 {
                                     "itemId": "c67d6f52-4f8f-4c2b-ab1b-257552fc2f34",
                                     "itemDataSlot": {
-                                        "instanceID": 86200
+                                        "instanceID": 79296
                                     },
                                     "quantity": 1
                                 }
@@ -2436,7 +2437,7 @@
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": true,
@@ -2445,7 +2446,7 @@
                                         ],
                                         "ignoredActors": [
                                             {
-                                                "instanceID": 123850
+                                                "instanceID": 93936
                                             }
                                         ],
                                         "useLeftPortrait": true,
@@ -2453,7 +2454,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 123850
+                                            "instanceID": 93936
                                         },
                                         "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                         "doesStallChoreo": false,
@@ -2732,7 +2733,7 @@
                                 ]
                             },
                             "dialography_Pre": {
-                                "instanceID": 123724
+                                "instanceID": 93810
                             },
                             "dialographyData_onSuccess": {
                                 "dialographyName": "",
@@ -2770,7 +2771,7 @@
                             "dialogLines": [
                                 {
                                     "actor": {
-                                        "instanceID": 123850
+                                        "instanceID": 93936
                                     },
                                     "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                     "doesStallChoreo": true,
@@ -2781,7 +2782,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 123864
+                                        "instanceID": 93950
                                     },
                                     "actorId": "fd0b2801-6b34-4782-a558-0526d80cec78",
                                     "doesStallChoreo": false,
@@ -2792,7 +2793,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 123850
+                                        "instanceID": 93936
                                     },
                                     "actorId": "6580f1b8-452a-4ea1-aa46-84b02aacd5ac",
                                     "doesStallChoreo": false,

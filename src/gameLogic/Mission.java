@@ -67,6 +67,7 @@ public class Mission implements Serializable {
 		System.out.println("Mission: " + this.name + ", id: " + this.id);
 		this.description = missionData.description;
 		this.genericLocationEnvironmentType = missionData.genericLocationEnvironmentType;
+		this.genericPlotMinRadius = missionData.genericPlotMinRadius;
 		this.genericLocationSettlementType = missionData.genericLocationSettlementType;
 		
 		this.sourceTileType = sourceTileType;
@@ -135,6 +136,9 @@ public class Mission implements Serializable {
 	//Use a static unique MapLocation that'll be placed on the worldmap during its generation or a generic location environment type that convert a tile meeting the proper conditions into the unplacedMapLocation
 	private EnvironmentType genericLocationEnvironmentType;
 	public EnvironmentType getGenericLocationEnvironmentType() { return genericLocationEnvironmentType; }
+	
+	private int genericPlotMinRadius;
+	public int getGenericPlotMinRadius() { return genericPlotMinRadius; }
 	
 	private SettlementType genericLocationSettlementType;
 	public SettlementType getGenericLocationSettlementType() { return genericLocationSettlementType; }

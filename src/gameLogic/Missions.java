@@ -647,7 +647,9 @@ public class Missions {
 		
 		instructionCluster_0.AddClusterChain(new ClusterLink(m_1_b, null));
 		//Add Flexible path for end of b branch
-		flexibleTransitions.add(new FlexibleTransition(m_1_b.getId(), 2, 0.5f, m_2_b.getId(), m_2_b.getGenericLocationEnvironmentType()));
+		//flexibleTransitions.add(new FlexibleTransition(m_1_b.getId(), 2, 0.5f, m_2_b.getId(), m_2_b.getGenericLocationEnvironmentType()));
+		//Guarentee that the mission starts after moving two tiles thru the forest; by combining this with the placement of the mission in a forest with a minimum radius of 2 
+		flexibleTransitions.add(new FlexibleTransition(m_1_b.getId(), 2, 1f, m_2_b.getId(), m_2_b.getGenericLocationEnvironmentType()));
 		
 		instructionSets.add(new InstructionSet(instructionCluster_0));
 		
@@ -1115,7 +1117,7 @@ public class Missions {
 	private List<Mission> nextDirectMissions;
 	
 	/**
-	 * Call this at the beginning of the game to populate missionBranchExtents will all currently available missions.
+	 * Call this at the beginning of the game to populate missionBranchExtents with all currently available missions.
 	 */
 	public static void FindDirectMissionExtents() {
 		//Initialize or re-initialize the nextDirectMissions list

@@ -17,39 +17,39 @@
                     "gridLocationX": 1,
                     "gridLocationY": 0,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 2,
                     "gridLocationY": 0,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 3,
                     "gridLocationY": 0,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 4,
                     "gridLocationY": 0,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 0,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -65,7 +65,7 @@
                     "gridLocationX": 7,
                     "gridLocationY": 0,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -73,7 +73,7 @@
                     "gridLocationX": 8,
                     "gridLocationY": 0,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -232,7 +232,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 2,
+                    "layerHeight": 3,
                     "imageFilePath": "Foothills/RowLayer_0.png"
                 }
             ]
@@ -299,15 +299,15 @@
                     "gridLocationX": 7,
                     "gridLocationY": 1,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 8,
                     "gridLocationY": 1,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -466,7 +466,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 3,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_1.png"
                 }
             ]
@@ -485,7 +485,7 @@
                     "gridLocationX": 1,
                     "gridLocationY": 2,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -493,7 +493,7 @@
                     "gridLocationX": 2,
                     "gridLocationY": 2,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -532,8 +532,8 @@
                 {
                     "gridLocationX": 7,
                     "gridLocationY": 2,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -605,7 +605,7 @@
                     "gridLocationX": 16,
                     "gridLocationY": 2,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -613,7 +613,7 @@
                     "gridLocationX": 17,
                     "gridLocationY": 2,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -668,16 +668,16 @@
                 {
                     "gridLocationX": 24,
                     "gridLocationY": 2,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 25,
                     "gridLocationY": 2,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -700,7 +700,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 4,
+                    "layerHeight": 3,
                     "imageFilePath": "Foothills/RowLayer_2.png"
                 }
             ]
@@ -710,56 +710,56 @@
                 {
                     "gridLocationX": 0,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 1,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 2,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 3,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 4,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 6,
                     "gridLocationY": 3,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -839,7 +839,7 @@
                     "gridLocationX": 16,
                     "gridLocationY": 3,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -847,7 +847,7 @@
                     "gridLocationX": 17,
                     "gridLocationY": 3,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1331,7 +1331,7 @@
                     "gridLocationX": 19,
                     "gridLocationY": 5,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1378,16 +1378,16 @@
                 {
                     "gridLocationX": 25,
                     "gridLocationY": 5,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 26,
                     "gridLocationY": 5,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1402,7 +1402,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 6,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_5.png"
                 }
             ]
@@ -1509,7 +1509,7 @@
                     "gridLocationX": 12,
                     "gridLocationY": 6,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1517,7 +1517,7 @@
                     "gridLocationX": 13,
                     "gridLocationY": 6,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1556,16 +1556,16 @@
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 6,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 19,
                     "gridLocationY": 6,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1636,7 +1636,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 3,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_6.png"
                 }
             ]
@@ -1743,7 +1743,7 @@
                     "gridLocationX": 12,
                     "gridLocationY": 7,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1751,7 +1751,7 @@
                     "gridLocationX": 13,
                     "gridLocationY": 7,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -1862,8 +1862,8 @@
                 {
                     "gridLocationX": 27,
                     "gridLocationY": 7,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 }
@@ -2017,39 +2017,39 @@
                     "gridLocationX": 17,
                     "gridLocationY": 8,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 19,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 20,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 21,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2088,16 +2088,16 @@
                 {
                     "gridLocationX": 26,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 27,
                     "gridLocationY": 8,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 }
@@ -2131,7 +2131,7 @@
                     "gridLocationX": 2,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2139,7 +2139,7 @@
                     "gridLocationX": 3,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2147,7 +2147,7 @@
                     "gridLocationX": 4,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2155,7 +2155,7 @@
                     "gridLocationX": 5,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2163,7 +2163,7 @@
                     "gridLocationX": 6,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2171,7 +2171,7 @@
                     "gridLocationX": 7,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2251,47 +2251,47 @@
                     "gridLocationX": 17,
                     "gridLocationY": 9,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 19,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 20,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 21,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 22,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2314,31 +2314,31 @@
                 {
                     "gridLocationX": 25,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 26,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 27,
                     "gridLocationY": 9,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 }
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 4,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_9.png"
                 }
             ]
@@ -2357,7 +2357,7 @@
                     "gridLocationX": 1,
                     "gridLocationY": 10,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2404,8 +2404,8 @@
                 {
                     "gridLocationX": 7,
                     "gridLocationY": 10,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2413,7 +2413,7 @@
                     "gridLocationX": 8,
                     "gridLocationY": 10,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2485,15 +2485,15 @@
                     "gridLocationX": 17,
                     "gridLocationY": 10,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 10,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2598,8 +2598,8 @@
                 {
                     "gridLocationX": 2,
                     "gridLocationY": 11,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2622,16 +2622,16 @@
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 11,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 6,
                     "gridLocationY": 11,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2687,7 +2687,7 @@
                     "gridLocationX": 13,
                     "gridLocationY": 11,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2695,7 +2695,7 @@
                     "gridLocationX": 14,
                     "gridLocationY": 11,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2703,7 +2703,7 @@
                     "gridLocationX": 15,
                     "gridLocationY": 11,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2711,7 +2711,7 @@
                     "gridLocationX": 16,
                     "gridLocationY": 11,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2719,15 +2719,15 @@
                     "gridLocationX": 17,
                     "gridLocationY": 11,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 11,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2817,63 +2817,63 @@
                     "gridLocationX": 0,
                     "gridLocationY": 12,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 3,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 1,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 2,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 3,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 4,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 6,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 7,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2888,16 +2888,16 @@
                 {
                     "gridLocationX": 9,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 10,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -2905,63 +2905,63 @@
                     "gridLocationX": 11,
                     "gridLocationY": 12,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 12,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 13,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 14,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 15,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 16,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 17,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 12,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3059,7 +3059,7 @@
                     "gridLocationX": 1,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3067,71 +3067,71 @@
                     "gridLocationX": 2,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 3,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 4,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 6,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 7,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 8,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 9,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 10,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3139,15 +3139,15 @@
                     "gridLocationX": 11,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 12,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3194,8 +3194,8 @@
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 13,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3203,7 +3203,7 @@
                     "gridLocationX": 19,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3211,23 +3211,23 @@
                     "gridLocationX": 20,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 21,
                     "gridLocationY": 13,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 22,
                     "gridLocationY": 13,
-                    "isPassable": false,
-                    "penalty": 0,
+                    "isPassable": true,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3235,7 +3235,7 @@
                     "gridLocationX": 23,
                     "gridLocationY": 13,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3308,32 +3308,32 @@
                 {
                     "gridLocationX": 3,
                     "gridLocationY": 14,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 4,
                     "gridLocationY": 14,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 5,
                     "gridLocationY": 14,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 6,
                     "gridLocationY": 14,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3341,7 +3341,7 @@
                     "gridLocationX": 7,
                     "gridLocationY": 14,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3349,7 +3349,7 @@
                     "gridLocationX": 8,
                     "gridLocationY": 14,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3428,8 +3428,8 @@
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 14,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3477,7 +3477,7 @@
                     "gridLocationX": 24,
                     "gridLocationY": 14,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3485,7 +3485,7 @@
                     "gridLocationX": 25,
                     "gridLocationY": 14,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3508,7 +3508,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 3,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_14.png"
                 }
             ]
@@ -3623,23 +3623,23 @@
                     "gridLocationX": 13,
                     "gridLocationY": 15,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 14,
                     "gridLocationY": 15,
-                    "isPassable": true,
-                    "penalty": 2,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 15,
                     "gridLocationY": 15,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3647,23 +3647,23 @@
                     "gridLocationX": 16,
                     "gridLocationY": 15,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 3,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 17,
                     "gridLocationY": 15,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 15,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3711,7 +3711,7 @@
                     "gridLocationX": 24,
                     "gridLocationY": 15,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3719,7 +3719,7 @@
                     "gridLocationX": 25,
                     "gridLocationY": 15,
                     "isPassable": true,
-                    "penalty": 2,
+                    "penalty": 1,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3742,7 +3742,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 2,
+                    "layerHeight": 1,
                     "imageFilePath": "Foothills/RowLayer_15.png"
                 }
             ]
@@ -3801,7 +3801,7 @@
                     "gridLocationX": 6,
                     "gridLocationY": 16,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3809,7 +3809,7 @@
                     "gridLocationX": 7,
                     "gridLocationY": 16,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3857,23 +3857,23 @@
                     "gridLocationX": 13,
                     "gridLocationY": 16,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 14,
                     "gridLocationY": 16,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 15,
                     "gridLocationY": 16,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3881,23 +3881,23 @@
                     "gridLocationX": 16,
                     "gridLocationY": 16,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 3,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 17,
                     "gridLocationY": 16,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 16,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -3976,7 +3976,7 @@
             ],
             "imageLayers": [
                 {
-                    "layerHeight": 1,
+                    "layerHeight": 3,
                     "imageFilePath": "Foothills/RowLayer_16.png"
                 }
             ]
@@ -4035,7 +4035,7 @@
                     "gridLocationX": 6,
                     "gridLocationY": 17,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -4043,7 +4043,7 @@
                     "gridLocationX": 7,
                     "gridLocationY": 17,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -4091,23 +4091,23 @@
                     "gridLocationX": 13,
                     "gridLocationY": 17,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 2,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 14,
                     "gridLocationY": 17,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 15,
                     "gridLocationY": 17,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -4115,23 +4115,23 @@
                     "gridLocationX": 16,
                     "gridLocationY": 17,
                     "isPassable": true,
-                    "penalty": 1,
+                    "penalty": 3,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 17,
                     "gridLocationY": 17,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
                 {
                     "gridLocationX": 18,
                     "gridLocationY": 17,
-                    "isPassable": true,
-                    "penalty": 1,
+                    "isPassable": false,
+                    "penalty": 0,
                     "isPlacementSlot": false,
                     "isAllySlot": false
                 },
@@ -4216,7 +4216,232 @@
             ]
         },
         {
-            "tileDatas": [],
+            "tileDatas": [
+                {
+                    "gridLocationX": 0,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 1,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 18,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 18,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 3,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 18,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 18,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 26,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 27,
+                    "gridLocationY": 18,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
             "imageLayers": [
                 {
                     "layerHeight": 1,
@@ -4225,7 +4450,232 @@
             ]
         },
         {
-            "tileDatas": [],
+            "tileDatas": [
+                {
+                    "gridLocationX": 0,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 1,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 2,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 3,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 4,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 5,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 6,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 7,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 8,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 9,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 10,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 11,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 12,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 13,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 2,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 14,
+                    "gridLocationY": 19,
+                    "isPassable": false,
+                    "penalty": 0,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 15,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 16,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 17,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 18,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 19,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 20,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 21,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 22,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 23,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 24,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 25,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 26,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                },
+                {
+                    "gridLocationX": 27,
+                    "gridLocationY": 19,
+                    "isPassable": true,
+                    "penalty": 1,
+                    "isPlacementSlot": false,
+                    "isAllySlot": false
+                }
+            ],
             "imageLayers": [
                 {
                     "layerHeight": 1,

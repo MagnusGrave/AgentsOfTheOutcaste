@@ -813,7 +813,7 @@ public class WorldmapPanel extends JPanel {
 			
 			//if(isDebuggingGeneration)
 			//we need this to support the terrain tiles
-				terrainLayersScaleListener.AddChild(columnGridPanel);
+			terrainLayersScaleListener.AddChild(columnGridPanel);
 			
 			//columnGridPanel.setBorder(BorderFactory.createLineBorder(Color.MAGENTA, 3));
 			
@@ -3926,19 +3926,21 @@ public class WorldmapPanel extends JPanel {
 	
 	//[GenericSettlementSupport]
 	/**
-	 * This is a way of using either an Environment or a Settlement to build mission chains.
+	 * This is a way of using either an Environment or a Settlement to build mission chains. It takes a secondary argument setting a requirement for the size of the chosen EnvironmentPlot.
 	 * @author Magnus
 	 *
 	 */
 	public class VersitileTypeNode {
-		public VersitileTypeNode(EnvironmentType environmentType) {
+		public VersitileTypeNode(EnvironmentType environmentType, int minPlotRadius) {
 			this.environmentType = environmentType;
+			this.minPlotRadius = minPlotRadius;
 		}
 		public VersitileTypeNode(SettlementType settlementType) {
 			this.settlementType = settlementType;
 		}
 		public EnvironmentType environmentType;
 		public SettlementType settlementType;
+		public int minPlotRadius;
 		
 		@Override
 		public String toString() {
@@ -4120,8 +4122,15 @@ public class WorldmapPanel extends JPanel {
 							else
 								System.err.println("  Every MapLocation in a Mission in an InstructionCluster must have an EnvironmentType or a generic SettlementType! "
 									+ "Mission: " + currentLink.GetLayersMission().getName() + " doesn't have either! Skipping ClusterLink.");
-						} else
-							newGuide.versitileTypeNodes.add(new VersitileTypeNode(enviType));
+						} else {
+							if(currentLink.GetLayersMission().getGenericPlotMinRadius() > 0)
+								System.err.println("min radius > 0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+							
+							newGuide.versitileTypeNodes.add(new VersitileTypeNode(enviType, currentLink.GetLayersMission().getGenericPlotMinRadius()));
+						}
+						System.err.println("Central Mission: "+ centralMission.getName() +", minPlotRadius: " + centralMission.getGenericPlotMinRadius());
+						System.err.println("Mission: "+ currentLink.GetLayersMission().getName() +", minPlotRadius: " + currentLink.GetLayersMission().getGenericPlotMinRadius());
+						
 						
 						
 						if(debugLocationPlacement)
@@ -4172,7 +4181,7 @@ public class WorldmapPanel extends JPanel {
 				}
 				VersitileTypeNode centralVersiNode = null;
 				if(centralEnvironmentType != null)
-					centralVersiNode = new VersitileTypeNode(centralEnvironmentType);
+					centralVersiNode = new VersitileTypeNode(centralEnvironmentType, centralMission.getGenericPlotMinRadius());
 				else
 					centralVersiNode = new VersitileTypeNode(centralSettlementType);
 				
@@ -4357,6 +4366,11 @@ public class WorldmapPanel extends JPanel {
 					if(nextEnviType == null)
 						nextEnviType = sensibleLocationEnvironments[r.nextInt(sensibleLocationEnvironments.length)];
 					
+					
+					System.err.println("Start Mission: "+ instruction.getStartMission().getName() +", minPlotRadius: " + instruction.getStartMission().getGenericPlotMinRadius());
+					System.err.println("Next Mission: "+ instruction.getNextMission().getName() +", minPlotRadius: " + instruction.getNextMission().getGenericPlotMinRadius());
+					
+					
 					Map<Float, EnvironmentPlot> distancePlotMap = new HashMap<Float, EnvironmentPlot>();
 					
 					MapLocation missionsMapLoc = GetMapLocationById(instruction.getStartMission().getMapLocationId());
@@ -4419,6 +4433,7 @@ public class WorldmapPanel extends JPanel {
 		if(versitileTypeNode.environmentType != null) {
 			for(EnvironmentPlot candidate : plotMap.get(versitileTypeNode.environmentType)) {
 				WorldTile chosenTile = worldMap.get(candidate.getEpicenter());
+				
 				if(chosenTile.GetMapLocation().GetMissionIds().size() > 0) {
 					if(debugLocationPlacement)
 						System.out.println("WorldmapPanel.GetPotentialMissionTiles() - Potential Tile already has a mission/s at: " + chosenTile.getPosition() + ". Continuing.");
@@ -4427,6 +4442,27 @@ public class WorldmapPanel extends JPanel {
 					
 					continue;
 				}
+				
+				System.err.println("WorldmapPanel.GetPotentialMissionTiles() - Assessing minPlotRadius: "+ versitileTypeNode.minPlotRadius +" for candidate with envir: " + chosenTile.getEnviType() + ", range: " + candidate.getRange() + ", tile Count: " + candidate.tiles.size());
+				if(versitileTypeNode.minPlotRadius > 0) {
+					if(debugLocationPlacement)
+						System.out.println("WorldmapPanel.GetPotentialMissionTiles() - Assessing minPlotRadius: candidate envir: " + chosenTile.getEnviType() + ", range: " + candidate.getRange() + ", tile Count: " + candidate.tiles.size());
+					//TODO - Include EnvironmentPlot radius(or general size) as criteria for selecting WorldTiles for the Mission
+					int minCountBasedOnRadius = 1;
+					if(versitileTypeNode.minPlotRadius > 1)
+						minCountBasedOnRadius = 6*(versitileTypeNode.minPlotRadius - 2) + (6*(int)Math.pow(2, versitileTypeNode.minPlotRadius - 2)) + 1;
+					if( (candidate.getRange() == -1 || candidate.getRange() >= versitileTypeNode.minPlotRadius) && candidate.tiles.size() >= minCountBasedOnRadius) {
+						if(debugLocationPlacement)
+							System.out.println("WorldmapPanel.GetPotentialMissionTiles() - Plot size satisfies versitileTypeNode.minPlotRadius: " + versitileTypeNode.minPlotRadius);
+						//Dont need anything here
+					} else {
+						if(debugLocationPlacement)
+							System.out.println("WorldmapPanel.GetPotentialMissionTiles() - EnvironmentPlot is smaller than min radius: " + versitileTypeNode.minPlotRadius);
+						continue;
+					}
+				}
+				
+				
 				potentials.add(chosenTile);
 			}
 		} else {
@@ -4480,7 +4516,6 @@ public class WorldmapPanel extends JPanel {
 		}
 	}
 	Map<SettlementType, Range> genericSettlementProcedures = new HashMap<SettlementType, Range>();
-	
 	
 	private EnvironmentType GetEnvironmentFromMission(Mission mission) {
 		EnvironmentType enviType = null;

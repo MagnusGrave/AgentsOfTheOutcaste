@@ -2671,11 +2671,10 @@ public class Game {
 	
 	//Inventory
 	public List<ItemData> GetInventory() {
-		//TODO restore after debugging
-		//return new ArrayList<>(Arrays.asList(saveData.inventory));
+		return new ArrayList<>(Arrays.asList(saveData.inventory));
 		
 		//DEBUGGING
-		System.err.println("DEBUGGING @ Game.GetInventory() - Inventory consists of all BattleItems.");
+		/*System.err.println("DEBUGGING @ Game.GetInventory() - Inventory consists of all BattleItems.");
 		List<ItemData> battleItems = new ArrayList<ItemData>();
 		for(ItemData itemData : Items.itemList) {
 			if(itemData.itemUseTypes() != null) {
@@ -2689,7 +2688,7 @@ public class Game {
 				battleItems.add(itemData);
 			}
 		}
-		return battleItems;
+		return battleItems;*/
 	}
 	
 	//Called by WorldmapPanel

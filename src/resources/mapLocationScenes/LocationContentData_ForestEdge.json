@@ -36,8 +36,8 @@
                                         "y": 0
                                     },
                                     "teleportPosition": {
-                                        "x": 0.0,
-                                        "y": 0.0
+                                        "x": 14.0,
+                                        "y": 10.0
                                     },
                                     "fadeDuration": 0.5,
                                     "fadeIn": true,
@@ -58,8 +58,8 @@
                                         "y": 0
                                     },
                                     "teleportPosition": {
-                                        "x": 0.0,
-                                        "y": 0.0
+                                        "x": 14.0,
+                                        "y": 10.0
                                     },
                                     "fadeDuration": 0.0,
                                     "fadeIn": false,
@@ -117,6 +117,8 @@
                         ],
                         "rewardsRefs": [],
                         "genericLocationEnvironmentType": 3,
+                        "genericPlotMinRadius": 0,
+                        "genericLocationSettlementType": -1,
                         "gotoMissionIdAfterEntry": "",
                         "indicator_nextPendingMission": 4,
                         "indicator_onlyShowUponEntering": true,
@@ -188,7 +190,7 @@
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": true,
@@ -199,7 +201,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": true,
@@ -210,7 +212,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": true,
@@ -221,7 +223,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -250,8 +252,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -272,8 +274,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -294,8 +296,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -316,8 +318,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -338,8 +340,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -360,8 +362,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -382,8 +384,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -404,8 +406,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -426,8 +428,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -448,8 +450,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -470,8 +472,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -492,8 +494,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -514,8 +516,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -536,8 +538,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -569,8 +571,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -591,8 +593,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": true,
@@ -613,8 +615,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.25,
                                                 "fadeIn": true,
@@ -635,8 +637,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -657,8 +659,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -679,8 +681,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -701,8 +703,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -723,8 +725,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -745,8 +747,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -767,8 +769,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -800,8 +802,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -822,8 +824,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -844,8 +846,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.5,
                                                 "fadeIn": true,
@@ -866,8 +868,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.25,
                                                 "fadeIn": false,
@@ -888,8 +890,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -910,8 +912,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -929,14 +931,14 @@
                                 ]
                             },
                             "dialography_onSuccess": {
-                                "instanceID": 78042
+                                "instanceID": 89218
                             },
                             "nextInteractions_onSuccess_ids": [
                                 "32c3e1aa-60cf-4174-bf62-6225e1dabab0"
                             ],
                             "nextInteractions_onSuccess_slots": [
                                 {
-                                    "instanceID": 78090
+                                    "instanceID": 89266
                                 }
                             ],
                             "dialographyData_onFailure": {
@@ -950,6 +952,7 @@
                             },
                             "nextInteractions_onFailure_ids": [],
                             "nextInteractions_onFailure_slots": [],
+                            "manditoryEquipment_refs": [],
                             "grantedItems_refs": [],
                             "newRecruitIds": [],
                             "newRecruits": [],
@@ -1009,7 +1012,7 @@
                                 "dialogLines": [
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1020,7 +1023,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1031,7 +1034,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1042,7 +1045,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1053,7 +1056,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1064,7 +1067,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1075,7 +1078,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1086,7 +1089,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1097,7 +1100,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1108,7 +1111,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1119,7 +1122,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1130,7 +1133,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1141,7 +1144,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1152,7 +1155,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": false,
@@ -1163,7 +1166,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78158
+                                            "instanceID": 89334
                                         },
                                         "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                         "doesStallChoreo": true,
@@ -1174,7 +1177,7 @@
                                     },
                                     {
                                         "actor": {
-                                            "instanceID": 78392
+                                            "instanceID": 89568
                                         },
                                         "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
                                         "doesStallChoreo": false,
@@ -1203,8 +1206,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1225,8 +1228,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1258,8 +1261,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": true,
@@ -1280,8 +1283,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": true,
@@ -1302,8 +1305,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": true,
@@ -1324,8 +1327,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.5,
                                                 "fadeIn": true,
@@ -1346,8 +1349,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1368,8 +1371,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.5,
                                                 "fadeIn": false,
@@ -1390,8 +1393,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1423,8 +1426,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1445,8 +1448,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1467,8 +1470,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1489,8 +1492,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.5,
                                                 "fadeIn": false,
@@ -1511,8 +1514,8 @@
                                                     "y": 0
                                                 },
                                                 "teleportPosition": {
-                                                    "x": 0.0,
-                                                    "y": 0.0
+                                                    "x": 14.0,
+                                                    "y": 10.0
                                                 },
                                                 "fadeDuration": 0.0,
                                                 "fadeIn": false,
@@ -1530,7 +1533,7 @@
                                 ]
                             },
                             "dialography_Pre": {
-                                "instanceID": 78272
+                                "instanceID": 89448
                             },
                             "dialographyData_onSuccess": {
                                 "dialographyName": "",
@@ -1554,11 +1557,12 @@
                             },
                             "nextInteractions_onFailure_ids": [],
                             "nextInteractions_onFailure_slots": [],
+                            "manditoryEquipment_refs": [],
                             "grantedItems_refs": [
                                 {
                                     "itemId": "44e5531a-90e8-430d-93bf-b4cc23dcaac5",
                                     "itemDataSlot": {
-                                        "instanceID": 78400
+                                        "instanceID": 78542
                                     },
                                     "quantity": 1
                                 }
@@ -1575,7 +1579,7 @@
                             "dialogLines": [
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1586,7 +1590,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": true,
@@ -1597,7 +1601,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1608,7 +1612,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1619,7 +1623,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1630,7 +1634,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": true,
@@ -1641,7 +1645,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1652,7 +1656,7 @@
                                 },
                                 {
                                     "actor": {
-                                        "instanceID": 78158
+                                        "instanceID": 89334
                                     },
                                     "actorId": "a60d7b86-b44a-497e-bdd2-dc69aa6d65da",
                                     "doesStallChoreo": false,
@@ -1681,8 +1685,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": true,
@@ -1703,8 +1707,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.75,
                                             "fadeIn": true,
@@ -1725,8 +1729,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1747,8 +1751,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1769,8 +1773,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1791,8 +1795,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1813,8 +1817,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1835,8 +1839,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1857,8 +1861,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1879,8 +1883,8 @@
                                                 "y": 0
                                             },
                                             "teleportPosition": {
-                                                "x": 0.0,
-                                                "y": 0.0
+                                                "x": 14.0,
+                                                "y": 10.0
                                             },
                                             "fadeDuration": 0.0,
                                             "fadeIn": false,
@@ -1943,7 +1947,8 @@
                 "g": 1.0,
                 "b": 1.0,
                 "a": 1.0
-            }
+            },
+            "zRotation": 0.0
         },
         {
             "actorId": "c28cf4f0-d3fb-4548-90c1-022e108bfa75",
@@ -1956,7 +1961,8 @@
                 "g": 1.0,
                 "b": 1.0,
                 "a": 1.0
-            }
+            },
+            "zRotation": 0.0
         },
         {
             "actorId": "8bc29851-17e9-48aa-af88-b8f0c1af386a",
@@ -1969,7 +1975,8 @@
                 "g": 1.0,
                 "b": 1.0,
                 "a": 1.0
-            }
+            },
+            "zRotation": 0.0
         }
     ]
 }

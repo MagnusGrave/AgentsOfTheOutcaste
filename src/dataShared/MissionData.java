@@ -33,6 +33,11 @@ public class MissionData implements Serializable {
     public ItemRef[] rewardsRefs; //collect this
     
     public EnvironmentType genericLocationEnvironmentType;
+    //TODO - Add this property to the Unity side
+    /**
+     * Determines the min radius of the EnvironmentPlot that this mission can be placed in.
+     */
+    public int genericPlotMinRadius;
     //this doesnt make sense to set in unity because of the MapLocation centered data structuring of Missions. It only makes sense inside java runtime, if missions are constructed on the fly
     //but its still a good way to pack the information
     public SettlementType genericLocationSettlementType;
